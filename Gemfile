@@ -34,7 +34,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
- group :developerment do
+ group :development do
    gem 'sqlite3'
  end 
  
